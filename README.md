@@ -95,7 +95,7 @@ response = requests.get(url, headers=headers, params=url_params)
 
 # Confirm we got a 200 response
 response
-```
+
 
 
 
